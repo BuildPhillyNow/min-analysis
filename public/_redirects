@@ -1,0 +1,10 @@
+# Superseded standalone pages → their section in the single-page brief.
+# The pages were removed when the site collapsed into one page (Aug 2026);
+# these keep any inbound links working. Source kept in git history.
+/the-evidence       /#q2      301
+/the-rent-gap       /#q3      301
+/bonus-comparison   /#q4      301
+/peer-cities        /#close   301
+/solutions          /#close   301
+/near-transit       /#q5      301
+/slides             /         301

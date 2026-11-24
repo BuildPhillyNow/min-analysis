@@ -1,0 +1,129 @@
+{
+  "minRents": {
+    "br0": 836,
+    "br1": 896,
+    "br2": 1075,
+    "br3": 1242
+  },
+  "zips": [
+    {
+      "zip": "19133",
+      "hood": "Fairhill",
+      "safmr": {
+        "br0": 990,
+        "br1": 1080,
+        "br2": 1280,
+        "br3": 1530
+      },
+      "market_allunit": 1537,
+      "market_2br_est": 1921,
+      "safmr_minus_min_2br": 205,
+      "market_minus_min_2br": 846
+    },
+    {
+      "zip": "19124",
+      "hood": "Frankford",
+      "safmr": {
+        "br0": 1080,
+        "br1": 1180,
+        "br2": 1400,
+        "br3": 1680
+      },
+      "market_allunit": 1182,
+      "market_2br_est": 1477,
+      "safmr_minus_min_2br": 325,
+      "market_minus_min_2br": 402
+    },
+    {
+      "zip": "19139",
+      "hood": "Mantua",
+      "safmr": {
+        "br0": 1160,
+        "br1": 1260,
+        "br2": 1500,
+        "br3": 1800
+      },
+      "market_allunit": 1456,
+      "market_2br_est": 1821,
+      "safmr_minus_min_2br": 425,
+      "market_minus_min_2br": 746
+    },
+    {
+      "zip": "19143",
+      "hood": "Kingsessing",
+      "safmr": {
+        "br0": 1170,
+        "br1": 1280,
+        "br2": 1520,
+        "br3": 1820
+      },
+      "market_allunit": 1523,
+      "market_2br_est": 1903,
+      "safmr_minus_min_2br": 445,
+      "market_minus_min_2br": 828
+    },
+    {
+      "zip": "19134",
+      "hood": "Kensington",
+      "safmr": {
+        "br0": 1180,
+        "br1": 1290,
+        "br2": 1530,
+        "br3": 1830
+      },
+      "market_allunit": 1452,
+      "market_2br_est": 1815,
+      "safmr_minus_min_2br": 455,
+      "market_minus_min_2br": 740
+    },
+    {
+      "zip": "19122",
+      "hood": "West Kensington",
+      "safmr": {
+        "br0": 1280,
+        "br1": 1390,
+        "br2": 1660,
+        "br3": 1990
+      },
+      "market_allunit": 1918,
+      "market_2br_est": 2397,
+      "safmr_minus_min_2br": 585,
+      "market_minus_min_2br": 1322
+    },
+    {
+      "zip": "19104",
+      "hood": "University City",
+      "safmr": {
+        "br0": 1390,
+        "br1": 1510,
+        "br2": 1800,
+        "br3": 2160
+      },
+      "market_allunit": 1809,
+      "market_2br_est": 2261,
+      "safmr_minus_min_2br": 725,
+      "market_minus_min_2br": 1186
+    },
+    {
+      "zip": "19125",
+      "hood": "Olde Kensington",
+      "safmr": {
+        "br0": 1780,
+        "br1": 1930,
+        "br2": 2300,
+        "br3": 2760
+      },
+      "market_allunit": 1870,
+      "market_2br_est": 2338,
+      "safmr_minus_min_2br": 1225,
+      "market_minus_min_2br": 1263
+    }
+  ],
+  "meta": {
+    "safmrSource": "HUD FY2026 Small Area Fair Market Rents (revised), Philadelphia MSA METRO37980M37980",
+    "minSource": "City of Philadelphia 2025 Mixed Income Housing Program Report, Table 2 (40% AMI gross rent limits)",
+    "marketSource": "Zillow ZORI (Observed Rent Index), 2026-06-30, all-unit blended by ZIP; 2BR estimate = $/sqft x ~900 sqft",
+    "note": "SAFMR is the base payment standard; PHA sets voucher payment standards at 90\u2013110% of SAFMR. Market 2BR is an approximation (ZORI is not bedroom-split).",
+    "curationNote": "ZIPs limited to those containing actual MIN parcels (CD3/CD7). 19140 (Hunting Park) and 19146 (Grays Ferry) removed 2026-08: boundary slivers with 0 MIN parcels; their ZIP-blended rents reflected non-MIN areas (Graduate Hospital, etc.)."
+  }
+}

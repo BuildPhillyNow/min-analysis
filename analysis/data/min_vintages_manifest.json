@@ -1,0 +1,33 @@
+{
+  "subarea_a_vintages": [
+    {
+      "name": "original",
+      "effective": "2022-07-18",
+      "until": "2023-04-24",
+      "bill": "210633-A",
+      "geometry": "min_boundary_2022_original.geojson",
+      "note": "current minus 54th->63rd corridor"
+    },
+    {
+      "name": "post230007",
+      "effective": "2023-04-25",
+      "until": "~2025-06 (250372)",
+      "bill": "230007",
+      "geometry": "min_boundary_post230007.geojson",
+      "note": "= current published shapefile (GIS lags 250372)"
+    },
+    {
+      "name": "current",
+      "effective": "~2025-06",
+      "until": null,
+      "bill": "250372",
+      "geometry": "PENDING Planning post-2025 shapefile",
+      "note": "49th & Woodland change; not in published GIS yet"
+    }
+  ],
+  "other_subareas": "b (TOD\u2229CD7), c (Kensington), d (Frankford), e (Feltonville): geometry static in study window (220418 Nov-2022 = technical corrections to c/d; 240333 = map cleanup).",
+  "cut_line_54th_st": {
+    "fit_lng_eq": "-0.13281*lat + -69.92120",
+    "source": "781 OPA parcels on 54th St"
+  }
+}

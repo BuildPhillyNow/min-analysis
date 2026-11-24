@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bpn-green: #00844D;
+  --color-bpn-green-dark: #006B3E;
+  --color-bpn-cream: #EAE7E4;
+  --color-bpn-card: #F5F3F1;
+  --color-bpn-dark: #1a1a2e;
+  --color-min-red: #c0392b;
+  --color-min-red-dark: #962d22;
+  --color-min-red-light: #fdf2f2;
+
+  --font-display: var(--font-outfit), system-ui, sans-serif;
+  --font-body: var(--font-dm-sans), system-ui, sans-serif;
+}
+
+/* Offset anchor jumps so section headers clear the sticky nav (h-16 = 4rem). */
+html {
+  scroll-padding-top: 5rem;
+  scroll-behavior: smooth;
+}

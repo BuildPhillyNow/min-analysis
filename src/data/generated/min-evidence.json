@@ -1,0 +1,877 @@
+{
+ "asOf": "November 2026",
+ "baseline": "July 2016 to July 2020",
+ "post": "July 2022 to July 2026",
+ "cohortProjects": 1214,
+ "main": {
+  "nInside": 193,
+  "nControl": 604,
+  "projects": {
+   "insideBase": 15.5,
+   "insidePost": 6.0,
+   "controlBase": 45.8,
+   "controlPost": 24.2,
+   "insideChg": -61,
+   "controlChg": -47,
+   "gap": 14,
+   "gapLow": -5,
+   "gapHigh": 35,
+   "shortfall": 9,
+   "shortfallLow": -2,
+   "shortfallHigh": 22,
+   "sharePositive": 0.933
+  },
+  "units": {
+   "insideBase": 844.0,
+   "insidePost": 232.2,
+   "controlBase": 2225.2,
+   "controlPost": 1210.0,
+   "insideChg": -72,
+   "controlChg": -46,
+   "gap": 27,
+   "gapLow": -4,
+   "gapHigh": 53,
+   "shortfall": 907,
+   "shortfallLow": -84,
+   "shortfallHigh": 2200,
+   "sharePositive": 0.962
+  }
+ },
+ "gapRangeAcrossControls": {
+  "projects": [
+   14,
+   30
+  ],
+  "units": [
+   27,
+   38
+  ]
+ },
+ "excludeFirstThreeMonths": {
+  "nInside": 189,
+  "nControl": 589,
+  "projects": {
+   "insideBase": 15.5,
+   "insidePost": 5.0,
+   "controlBase": 45.8,
+   "controlPost": 20.5,
+   "insideChg": -68,
+   "controlChg": -55,
+   "gap": 13,
+   "gapLow": -5,
+   "gapHigh": 32,
+   "shortfall": 8,
+   "shortfallLow": -2,
+   "shortfallHigh": 21,
+   "sharePositive": 0.928
+  },
+  "units": {
+   "insideBase": 844.0,
+   "insidePost": 205.8,
+   "controlBase": 2225.2,
+   "controlPost": 998.2,
+   "insideChg": -76,
+   "controlChg": -55,
+   "gap": 20,
+   "gapLow": -6,
+   "gapHigh": 44,
+   "shortfall": 691,
+   "shortfallLow": -146,
+   "shortfallHigh": 1800,
+   "sharePositive": 0.944
+  }
+ },
+ "newResidential": {
+  "nInside": 145,
+  "nControl": 400,
+  "projects": {
+   "insideBase": 12.5,
+   "insidePost": 4.2,
+   "controlBase": 32.5,
+   "controlPost": 13.2,
+   "insideChg": -66,
+   "controlChg": -59,
+   "gap": 7,
+   "gapLow": -13,
+   "gapHigh": 30,
+   "shortfall": 3,
+   "shortfallLow": -6,
+   "shortfallHigh": 14,
+   "sharePositive": 0.775
+  },
+  "units": {
+   "insideBase": 716.8,
+   "insidePost": 184.5,
+   "controlBase": 1576.0,
+   "controlPost": 648.2,
+   "insideChg": -74,
+   "controlChg": -59,
+   "gap": 15,
+   "gapLow": -14,
+   "gapHigh": 47,
+   "shortfall": 441,
+   "shortfallLow": -301,
+   "shortfallHigh": 1600,
+   "sharePositive": 0.872
+  }
+ },
+ "district3": {
+  "nInside": 96,
+  "nControl": 450,
+  "projects": {
+   "insideBase": 8.2,
+   "insidePost": 1.8,
+   "controlBase": 33.8,
+   "controlPost": 17.8,
+   "insideChg": -79,
+   "controlChg": -47,
+   "gap": 31,
+   "gapLow": 12,
+   "gapHigh": 56,
+   "shortfall": 10,
+   "shortfallLow": 3,
+   "shortfallHigh": 19,
+   "sharePositive": 1.0
+  },
+  "units": {
+   "insideBase": 502.2,
+   "insidePost": 79.0,
+   "controlBase": 1605.8,
+   "controlPost": 890.2,
+   "insideChg": -84,
+   "controlChg": -45,
+   "gap": 40,
+   "gapLow": 10,
+   "gapHigh": 70,
+   "shortfall": 798,
+   "shortfallLow": 94,
+   "shortfallHigh": 1900,
+   "sharePositive": 0.99
+  }
+ },
+ "district7": {
+  "nInside": 87,
+  "nControl": 462,
+  "projects": {
+   "insideBase": 7.0,
+   "insidePost": 3.2,
+   "controlBase": 33.2,
+   "controlPost": 19.8,
+   "insideChg": -54,
+   "controlChg": -41,
+   "gap": 13,
+   "gapLow": -26,
+   "gapHigh": 41,
+   "shortfall": 4,
+   "shortfallLow": -4,
+   "shortfallHigh": 13,
+   "sharePositive": 0.815
+  },
+  "units": {
+   "insideBase": 339.2,
+   "insidePost": 120.0,
+   "controlBase": 1549.0,
+   "controlPost": 970.2,
+   "insideChg": -65,
+   "controlChg": -37,
+   "gap": 27,
+   "gapLow": -43,
+   "gapHigh": 66,
+   "shortfall": 370,
+   "shortfallLow": -269,
+   "shortfallHigh": 1200,
+   "sharePositive": 0.862
+  }
+ },
+ "ucVsCore": {
+  "nInside": 66,
+  "nControl": 127,
+  "projects": {
+   "insideBase": 5.2,
+   "insidePost": 1.8,
+   "controlBase": 8.2,
+   "controlPost": 6.8,
+   "insideChg": -67,
+   "controlChg": -18,
+   "gap": 48,
+   "gapLow": 15,
+   "gapHigh": 94,
+   "shortfall": 10,
+   "shortfallLow": 2,
+   "shortfallHigh": 22,
+   "sharePositive": 0.998
+  },
+  "units": {
+   "insideBase": 436.8,
+   "insidePost": 55.8,
+   "controlBase": 1075.5,
+   "controlPost": 900.8,
+   "insideChg": -87,
+   "controlChg": -16,
+   "gap": 71,
+   "gapLow": 24,
+   "gapHigh": 172,
+   "shortfall": 1200,
+   "shortfallLow": 194,
+   "shortfallHigh": 3700,
+   "sharePositive": 1.0
+  }
+ },
+ "ucVsGreater": {
+  "nInside": 66,
+  "nControl": 357,
+  "projects": {
+   "insideBase": 5.2,
+   "insidePost": 1.8,
+   "controlBase": 24.2,
+   "controlPost": 15.2,
+   "insideChg": -67,
+   "controlChg": -37,
+   "gap": 30,
+   "gapLow": 8,
+   "gapHigh": 63,
+   "shortfall": 6,
+   "shortfallLow": 1,
+   "shortfallHigh": 12,
+   "sharePositive": 0.996
+  },
+  "units": {
+   "insideBase": 436.8,
+   "insidePost": 55.8,
+   "controlBase": 2689.8,
+   "controlPost": 1452.8,
+   "insideChg": -87,
+   "controlChg": -46,
+   "gap": 41,
+   "gapLow": 17,
+   "gapHigh": 76,
+   "shortfall": 721,
+   "shortfallLow": 79,
+   "shortfallHigh": 1700,
+   "sharePositive": 0.999
+  }
+ },
+ "boundary1500": {
+  "nInside": 127,
+  "nControl": 147,
+  "projects": {
+   "insideBase": 10.0,
+   "insidePost": 4.2,
+   "controlBase": 11.8,
+   "controlPost": 5.2,
+   "insideChg": -58,
+   "controlChg": -55,
+   "gap": 2,
+   "gapLow": -27,
+   "gapHigh": 44,
+   "shortfall": 1,
+   "shortfallLow": -9,
+   "shortfallHigh": 18,
+   "sharePositive": 0.564
+  },
+  "units": {
+   "insideBase": 404.2,
+   "insidePost": 176.5,
+   "controlBase": 537.5,
+   "controlPost": 335.0,
+   "insideChg": -56,
+   "controlChg": -38,
+   "gap": 19,
+   "gapLow": -47,
+   "gapHigh": 134,
+   "shortfall": 302,
+   "shortfallLow": -554,
+   "shortfallHigh": 2500,
+   "sharePositive": 0.678
+  }
+ },
+ "allOutside": {
+  "nInside": 193,
+  "nControl": 1016,
+  "projects": {
+   "insideBase": 15.5,
+   "insidePost": 6.0,
+   "controlBase": 68.2,
+   "controlPost": 46.8,
+   "insideChg": -61,
+   "controlChg": -32,
+   "gap": 30,
+   "gapLow": 12,
+   "gapHigh": 50,
+   "shortfall": 18,
+   "shortfallLow": 5,
+   "shortfallHigh": 33,
+   "sharePositive": 0.998
+  },
+  "units": {
+   "insideBase": 844.0,
+   "insidePost": 232.2,
+   "controlBase": 4497.8,
+   "controlPost": 2926.5,
+   "insideChg": -72,
+   "controlChg": -35,
+   "gap": 38,
+   "gapLow": 9,
+   "gapHigh": 66,
+   "shortfall": 1300,
+   "shortfallLow": 182,
+   "shortfallHigh": 2800,
+   "sharePositive": 0.992
+  }
+ },
+ "reweighted": {
+  "nInside": 193,
+  "nControl": 735,
+  "projects": {
+   "insideBase": 15.5,
+   "insidePost": 6.0,
+   "controlBase": 51.8,
+   "controlPost": 30.8,
+   "insideChg": -61,
+   "controlChg": -40,
+   "gap": 21,
+   "gapLow": 3,
+   "gapHigh": 43,
+   "shortfall": 13,
+   "shortfallLow": 1,
+   "shortfallHigh": 28,
+   "sharePositive": 0.986
+  },
+  "units": {
+   "insideBase": 844.0,
+   "insidePost": 232.2,
+   "controlBase": 2384.6,
+   "controlPost": 1396.9,
+   "insideChg": -72,
+   "controlChg": -41,
+   "gap": 31,
+   "gapLow": 3,
+   "gapHigh": 62,
+   "shortfall": 1000,
+   "shortfallLow": 72,
+   "shortfallHigh": 2600,
+   "sharePositive": 0.981
+  }
+ },
+ "repeatFilings": {
+  "notMerged": {
+   "nInside": 236,
+   "nControl": 696,
+   "projects": {
+    "insideBase": 21.5,
+    "insidePost": 6.8,
+    "controlBase": 55.0,
+    "controlPost": 30.8,
+    "insideChg": -69,
+    "controlChg": -44,
+    "gap": 24,
+    "gapLow": 4,
+    "gapHigh": 48,
+    "shortfall": 21,
+    "shortfallLow": 2,
+    "shortfallHigh": 51,
+    "sharePositive": 0.99
+   },
+   "units": {
+    "insideBase": 1221.8,
+    "insidePost": 297.5,
+    "controlBase": 2451.5,
+    "controlPost": 1553.2,
+    "insideChg": -76,
+    "controlChg": -37,
+    "gap": 39,
+    "gapLow": 11,
+    "gapHigh": 73,
+    "shortfall": 1900,
+    "shortfallLow": 338,
+    "shortfallHigh": 4300,
+    "sharePositive": 0.993
+   }
+  },
+  "within2": {
+   "nInside": 196,
+   "nControl": 621,
+   "projects": {
+    "insideBase": 15.5,
+    "insidePost": 6.2,
+    "controlBase": 47.5,
+    "controlPost": 25.5,
+    "insideChg": -60,
+    "controlChg": -46,
+    "gap": 13,
+    "gapLow": -4,
+    "gapHigh": 34,
+    "shortfall": 8,
+    "shortfallLow": -2,
+    "shortfallHigh": 21,
+    "sharePositive": 0.941
+   },
+   "units": {
+    "insideBase": 843.2,
+    "insidePost": 236.0,
+    "controlBase": 2253.0,
+    "controlPost": 1290.2,
+    "insideChg": -72,
+    "controlChg": -43,
+    "gap": 29,
+    "gapLow": 2,
+    "gapHigh": 56,
+    "shortfall": 988,
+    "shortfallLow": 28,
+    "shortfallHigh": 2400,
+    "sharePositive": 0.979
+   }
+  },
+  "within5": {
+   "nInside": 188,
+   "nControl": 584,
+   "projects": {
+    "insideBase": 14.8,
+    "insidePost": 6.0,
+    "controlBase": 43.8,
+    "controlPost": 22.5,
+    "insideChg": -59,
+    "controlChg": -49,
+    "gap": 11,
+    "gapLow": -9,
+    "gapHigh": 31,
+    "shortfall": 6,
+    "shortfallLow": -4,
+    "shortfallHigh": 18,
+    "sharePositive": 0.862
+   },
+   "units": {
+    "insideBase": 825.0,
+    "insidePost": 232.2,
+    "controlBase": 2023.5,
+    "controlPost": 1159.8,
+    "insideChg": -72,
+    "controlChg": -43,
+    "gap": 29,
+    "gapLow": -2,
+    "gapHigh": 56,
+    "shortfall": 962,
+    "shortfallLow": -37,
+    "shortfallHigh": 2300,
+    "sharePositive": 0.968
+   }
+  }
+ },
+ "d3OutsideUc": {
+  "nInside": 34,
+  "nControl": 357,
+  "projects": {
+   "insideBase": 3.0,
+   "insidePost": 0.5,
+   "controlBase": 24.2,
+   "controlPost": 15.2,
+   "insideChg": -83,
+   "controlChg": -37,
+   "gap": 46,
+   "gapLow": 10,
+   "gapHigh": 76,
+   "shortfall": 6,
+   "shortfallLow": 0,
+   "shortfallHigh": 10,
+   "sharePositive": 0.993
+  },
+  "units": {
+   "insideBase": 65.5,
+   "insidePost": 29.8,
+   "controlBase": 2689.8,
+   "controlPost": 1452.8,
+   "insideChg": -55,
+   "controlChg": -46,
+   "gap": 9,
+   "gapLow": -92,
+   "gapHigh": 74,
+   "shortfall": 23,
+   "shortfallLow": -218,
+   "shortfallHigh": 227,
+   "sharePositive": 0.608
+  }
+ },
+ "uc50": {
+  "nInside": 18,
+  "nControl": 130,
+  "projects": {
+   "insideBase": 1.8,
+   "insidePost": 0.2,
+   "controlBase": 8.5,
+   "controlPost": 6.2,
+   "insideChg": -86,
+   "controlChg": -26,
+   "gap": 59,
+   "gapLow": 27,
+   "gapHigh": 114,
+   "shortfall": 4,
+   "shortfallLow": 0,
+   "shortfallHigh": 10,
+   "sharePositive": 1.0
+  },
+  "units": {
+   "insideBase": 338.2,
+   "insidePost": 27.2,
+   "controlBase": 2324.0,
+   "controlPost": 1238.2,
+   "insideChg": -92,
+   "controlChg": -47,
+   "gap": 45,
+   "gapLow": 18,
+   "gapHigh": 87,
+   "shortfall": 612,
+   "shortfallLow": 166,
+   "shortfallHigh": 1400,
+   "sharePositive": 1.0
+  }
+ },
+ "ucSize": {
+  "uc": {
+   "before": {
+    "projects": 21,
+    "homes": 1747,
+    "big": 5,
+    "largest": 420
+   },
+   "underMin": {
+    "projects": 7,
+    "homes": 223,
+    "big": 1,
+    "largest": 109
+   }
+  },
+  "core": {
+   "before": {
+    "projects": 33,
+    "homes": 4302,
+    "big": 12,
+    "largest": 694
+   },
+   "underMin": {
+    "projects": 27,
+    "homes": 3603,
+    "big": 9,
+    "largest": 708
+   }
+  },
+  "greater": {
+   "before": {
+    "projects": 97,
+    "homes": 10759,
+    "big": 26,
+    "largest": 965
+   },
+   "underMin": {
+    "projects": 61,
+    "homes": 5811,
+    "big": 13,
+    "largest": 708
+   }
+  },
+  "ucUnderMinEastOf40th": 0,
+  "ucBeforeEastOf40th": 5,
+  "ucUnderMinNewConstruction": 3
+ },
+ "yearlyShare": [
+  {
+   "label": "2012\u201313",
+   "underMin": false,
+   "inside": 11,
+   "control": 36,
+   "share": 23
+  },
+  {
+   "label": "2013\u201314",
+   "underMin": false,
+   "inside": 19,
+   "control": 68,
+   "share": 22
+  },
+  {
+   "label": "2014\u201315",
+   "underMin": false,
+   "inside": 10,
+   "control": 35,
+   "share": 22
+  },
+  {
+   "label": "2015\u201316",
+   "underMin": false,
+   "inside": 10,
+   "control": 37,
+   "share": 21
+  },
+  {
+   "label": "2016\u201317",
+   "underMin": false,
+   "inside": 14,
+   "control": 48,
+   "share": 23
+  },
+  {
+   "label": "2017\u201318",
+   "underMin": false,
+   "inside": 13,
+   "control": 33,
+   "share": 28
+  },
+  {
+   "label": "2018\u201319",
+   "underMin": false,
+   "inside": 16,
+   "control": 42,
+   "share": 28
+  },
+  {
+   "label": "2019\u201320",
+   "underMin": false,
+   "inside": 19,
+   "control": 60,
+   "share": 24
+  },
+  {
+   "label": "2020\u201321",
+   "underMin": false,
+   "inside": 32,
+   "control": 92,
+   "share": 26
+  },
+  {
+   "label": "2021\u201322",
+   "underMin": false,
+   "inside": 25,
+   "control": 56,
+   "share": 31
+  },
+  {
+   "label": "2022\u201323",
+   "underMin": true,
+   "inside": 11,
+   "control": 44,
+   "share": 20
+  },
+  {
+   "label": "2023\u201324",
+   "underMin": true,
+   "inside": 8,
+   "control": 23,
+   "share": 26
+  },
+  {
+   "label": "2024\u201325",
+   "underMin": true,
+   "inside": 3,
+   "control": 18,
+   "share": 14
+  },
+  {
+   "label": "2025\u201326",
+   "underMin": true,
+   "inside": 2,
+   "control": 12,
+   "share": 14
+  }
+ ],
+ "ucShare": {
+  "p2012_16": {
+   "uc": 28,
+   "cc": 124,
+   "share": 18
+  },
+  "p2016_20": {
+   "uc": 21,
+   "cc": 97,
+   "share": 18
+  },
+  "p2020_22": {
+   "uc": 10,
+   "cc": 75,
+   "share": 12
+  },
+  "underMin": {
+   "uc": 7,
+   "cc": 61,
+   "share": 10
+  },
+  "years": [
+   {
+    "label": "2012\u201313",
+    "underMin": false,
+    "uc": 8,
+    "cc": 33,
+    "share": 20,
+    "core": 15
+   },
+   {
+    "label": "2013\u201314",
+    "underMin": false,
+    "uc": 11,
+    "cc": 43,
+    "share": 20,
+    "core": 15
+   },
+   {
+    "label": "2014\u201315",
+    "underMin": false,
+    "uc": 6,
+    "cc": 25,
+    "share": 19,
+    "core": 11
+   },
+   {
+    "label": "2015\u201316",
+    "underMin": false,
+    "uc": 3,
+    "cc": 23,
+    "share": 12,
+    "core": 6
+   },
+   {
+    "label": "2016\u201317",
+    "underMin": false,
+    "uc": 4,
+    "cc": 31,
+    "share": 11,
+    "core": 12
+   },
+   {
+    "label": "2017\u201318",
+    "underMin": false,
+    "uc": 7,
+    "cc": 17,
+    "share": 29,
+    "core": 8
+   },
+   {
+    "label": "2018\u201319",
+    "underMin": false,
+    "uc": 5,
+    "cc": 27,
+    "share": 16,
+    "core": 7
+   },
+   {
+    "label": "2019\u201320",
+    "underMin": false,
+    "uc": 5,
+    "cc": 22,
+    "share": 19,
+    "core": 6
+   },
+   {
+    "label": "2020\u201321",
+    "underMin": false,
+    "uc": 3,
+    "cc": 48,
+    "share": 6,
+    "core": 12
+   },
+   {
+    "label": "2021\u201322",
+    "underMin": false,
+    "uc": 7,
+    "cc": 27,
+    "share": 21,
+    "core": 8
+   },
+   {
+    "label": "2022\u201323",
+    "underMin": true,
+    "uc": 1,
+    "cc": 25,
+    "share": 4,
+    "core": 11
+   },
+   {
+    "label": "2023\u201324",
+    "underMin": true,
+    "uc": 2,
+    "cc": 16,
+    "share": 11,
+    "core": 5
+   },
+   {
+    "label": "2024\u201325",
+    "underMin": true,
+    "uc": 2,
+    "cc": 10,
+    "share": 17,
+    "core": 6
+   },
+   {
+    "label": "2025\u201326",
+    "underMin": true,
+    "uc": 2,
+    "cc": 10,
+    "share": 17,
+    "core": 5
+   }
+  ],
+  "ccProjectsUnderMin": 61,
+  "expectedAtUsualShare": 11,
+  "usualShare": 15
+ },
+ "conversion": {
+  "insideUnderMin": {
+   "projects": 48,
+   "units": 2330,
+   "ever": 62,
+   "m12": 29,
+   "m18": 42,
+   "m24": 49
+  },
+  "controlUnderMin": {
+   "projects": 166,
+   "units": 9184,
+   "ever": 63,
+   "m12": 38,
+   "m18": 49,
+   "m24": 51
+  },
+  "insideBefore": {
+   "projects": 97,
+   "units": 5820,
+   "ever": 90,
+   "m12": 69,
+   "m18": 76,
+   "m24": 81
+  },
+  "controlBefore": {
+   "projects": 257,
+   "units": 14062,
+   "ever": 88,
+   "m12": 65,
+   "m18": 74,
+   "m24": 78
+  }
+ },
+ "parcelOdds": {
+  "sites": 11930,
+  "sitesInside": 1216,
+  "citywide": {
+   "or": 0.42,
+   "low": 0.22,
+   "high": 0.81
+  },
+  "citywideControls": {
+   "or": 0.39,
+   "low": 0.19,
+   "high": 0.81
+  },
+  "matched": {
+   "or": 0.48,
+   "low": 0.24,
+   "high": 0.93
+  },
+  "near2500": {
+   "or": 0.58,
+   "low": 0.26,
+   "high": 1.31
+  },
+  "near1500": {
+   "or": 0.92,
+   "low": 0.38,
+   "high": 2.22
+  }
+ }
+}

@@ -1,0 +1,614 @@
+{
+  "matched": [
+    {
+      "addr": "2640 E LEHIGH AVE",
+      "program": "MIHB",
+      "aff": 4,
+      "status": "BP",
+      "year": 2024,
+      "zoning": "RSA5",
+      "opa_location": "2640 W LEHIGH AVE",
+      "lot_area": 928,
+      "market_value": 48200,
+      "matched": true
+    },
+    {
+      "addr": "4452 GRISCOM ST",
+      "program": "MIHB",
+      "aff": 1,
+      "status": "BP",
+      "year": 2024,
+      "zoning": "RM1",
+      "opa_location": "4452 GRISCOM ST",
+      "lot_area": 2487,
+      "market_value": 1155000,
+      "matched": true
+    },
+    {
+      "addr": "5139 WAYNE AVE",
+      "program": "MIHB",
+      "aff": 5,
+      "status": "BP",
+      "year": 2024,
+      "zoning": "RM1",
+      "opa_location": "5139 WAYNE AVE",
+      "lot_area": 12278,
+      "market_value": 94200,
+      "matched": true
+    },
+    {
+      "addr": "5310 WHITBY AVE",
+      "program": "MIHB",
+      "aff": 2,
+      "status": "BP",
+      "year": 2024,
+      "zoning": "CMX2",
+      "opa_location": "5310 WHITBY AVE",
+      "lot_area": 5040,
+      "market_value": 1781400,
+      "matched": true
+    },
+    {
+      "addr": "20 W ALLENS LN",
+      "program": "MIHB",
+      "aff": 8,
+      "status": "BP",
+      "year": 2024,
+      "zoning": "RM1",
+      "opa_location": "20 W ALLENS LN",
+      "lot_area": 28079,
+      "market_value": 695400,
+      "matched": true
+    },
+    {
+      "addr": "2400 E HUNTINGDON ST",
+      "program": "MIHB",
+      "aff": 15,
+      "status": "BP",
+      "year": 2024,
+      "zoning": "IRMX",
+      "opa_location": "2400 E HUNTINGDON ST",
+      "lot_area": null,
+      "market_value": 22284600,
+      "matched": true
+    },
+    {
+      "addr": "3748 LANCASTER AVE",
+      "program": "MIHB",
+      "aff": 4,
+      "status": "BP",
+      "year": 2024,
+      "zoning": "CMX2",
+      "opa_location": "3748 LANCASTER AVE",
+      "lot_area": 12997,
+      "market_value": 7134000,
+      "matched": true
+    },
+    {
+      "addr": "4400 MARKET ST",
+      "program": "MIHB",
+      "aff": 9,
+      "status": "BP",
+      "year": 2024,
+      "zoning": "CMX4",
+      "opa_location": "4400 MARKET ST",
+      "lot_area": 10410,
+      "market_value": 1543900,
+      "matched": true
+    },
+    {
+      "addr": "5521 WAYNE AVE",
+      "program": "MIHB",
+      "aff": 5,
+      "status": "BP",
+      "year": 2024,
+      "zoning": "CMX2.5",
+      "opa_location": "5521 WAYNE AVE",
+      "lot_area": 9123,
+      "market_value": 7517400,
+      "matched": true
+    },
+    {
+      "addr": "6767 GERMANTOWN AVE",
+      "program": "MIHB",
+      "aff": 5,
+      "status": "BP",
+      "year": 2024,
+      "zoning": "CMX2",
+      "opa_location": "6767 GERMANTOWN AVE",
+      "lot_area": 10661,
+      "market_value": 664800,
+      "matched": true
+    },
+    {
+      "addr": "701 CECIL B MOORE AVE",
+      "program": "MIHB",
+      "aff": 4,
+      "status": "BP",
+      "year": 2024,
+      "zoning": "CMX2",
+      "opa_location": "701 CECIL B MOORE AVE",
+      "lot_area": 10814,
+      "market_value": 4829900,
+      "matched": true
+    },
+    {
+      "addr": "7611 GERMANTOWN AVE",
+      "program": "MIHB",
+      "aff": 12,
+      "status": "BP",
+      "year": 2024,
+      "zoning": "CMX2",
+      "opa_location": "7611 GERMANTOWN AVE",
+      "lot_area": 41522,
+      "market_value": 1474000,
+      "matched": true
+    },
+    {
+      "addr": "3618 HAVERFORD AVE",
+      "program": "MIHB",
+      "aff": 7,
+      "status": "BP",
+      "year": 2024,
+      "zoning": "CMX2",
+      "opa_location": "3618 HAVERFORD AVE",
+      "lot_area": 1725,
+      "market_value": 153900,
+      "matched": true
+    },
+    {
+      "addr": "1452 GRAYS FERRY AVE",
+      "program": "MIHB",
+      "aff": 1,
+      "status": "CO",
+      "year": 2024,
+      "zoning": "CMX2",
+      "opa_location": "1452 GRAYS FERRY AVE",
+      "lot_area": 1961,
+      "market_value": 656200,
+      "matched": true
+    },
+    {
+      "addr": "1828 FRANKFORD AVE",
+      "program": "MIHB",
+      "aff": 1,
+      "status": "CO",
+      "year": 2024,
+      "zoning": "CMX2",
+      "opa_location": "1828 FRANKFORD AVE",
+      "lot_area": 3239,
+      "market_value": 1712700,
+      "matched": true
+    },
+    {
+      "addr": "1900 N FRONT ST",
+      "program": "MIHB",
+      "aff": 11,
+      "status": "CO",
+      "year": 2024,
+      "zoning": "CMX2.5",
+      "opa_location": "1900 N FRONT ST",
+      "lot_area": 15980,
+      "market_value": 18218400,
+      "matched": true
+    },
+    {
+      "addr": "2406 FRANKFORD AVE",
+      "program": "MIHB",
+      "aff": 3,
+      "status": "CO",
+      "year": 2024,
+      "zoning": "CMX2",
+      "opa_location": "2406 FRANKFORD AVE",
+      "lot_area": null,
+      "market_value": 3300000,
+      "matched": true
+    },
+    {
+      "addr": "4550 MITCHELL ST",
+      "program": "MIHB",
+      "aff": 4,
+      "status": "CO",
+      "year": 2024,
+      "zoning": "CMX2",
+      "opa_location": "4550 MITCHELL ST",
+      "lot_area": 10842,
+      "market_value": 7152800,
+      "matched": true
+    },
+    {
+      "addr": "608 S AMERICAN ST",
+      "program": "MIHB",
+      "aff": 1,
+      "status": "CO",
+      "year": 2024,
+      "zoning": "RM1",
+      "opa_location": "608 S AMERICAN ST",
+      "lot_area": 2500,
+      "market_value": 2100000,
+      "matched": true
+    },
+    {
+      "addr": "614 S 13TH ST",
+      "program": "MIHB",
+      "aff": 5,
+      "status": "CO",
+      "year": 2024,
+      "zoning": "RM1",
+      "opa_location": "614 S 13TH ST",
+      "lot_area": 13672,
+      "market_value": 849600,
+      "matched": true
+    },
+    {
+      "addr": "646 N 32ND ST",
+      "program": "MIHB",
+      "aff": 2,
+      "status": "CO",
+      "year": 2024,
+      "zoning": "RM1",
+      "opa_location": "646 N 32ND ST",
+      "lot_area": 4376,
+      "market_value": 3046900,
+      "matched": true
+    },
+    {
+      "addr": "367 W HORTTER ST",
+      "program": "MIHB",
+      "aff": 3,
+      "status": "CO",
+      "year": 2024,
+      "zoning": "CMX2",
+      "opa_location": "367 W HORTTER ST",
+      "lot_area": 10343,
+      "market_value": 4184300,
+      "matched": true
+    },
+    {
+      "addr": "700 S 17TH ST",
+      "program": "MIHB",
+      "aff": 7,
+      "status": "CO",
+      "year": 2024,
+      "zoning": "RM1",
+      "opa_location": "700 S 17TH ST",
+      "lot_area": 14111,
+      "market_value": 467400,
+      "matched": true
+    },
+    {
+      "addr": "893 BELMONT AVE",
+      "program": "MIHB",
+      "aff": 8,
+      "status": "CO",
+      "year": 2024,
+      "zoning": "CMX2",
+      "opa_location": "893 BELMONT AVE",
+      "lot_area": 4580,
+      "market_value": 1839900,
+      "matched": true
+    },
+    {
+      "addr": "1921 GREEN ST",
+      "program": "MIHB",
+      "aff": 1,
+      "status": "CO",
+      "year": 2024,
+      "zoning": "CMX1",
+      "opa_location": "1921 GREEN ST",
+      "lot_area": 0,
+      "market_value": 471500,
+      "matched": true
+    },
+    {
+      "addr": "1001 S 4TH ST",
+      "program": "MIHB",
+      "aff": 4,
+      "status": "CO",
+      "year": 2020,
+      "zoning": "RSA3",
+      "opa_location": "1001 N 64TH ST",
+      "lot_area": 3724,
+      "market_value": 310500,
+      "matched": true
+    },
+    {
+      "addr": "3618 WALLACE ST",
+      "program": "MIHB",
+      "aff": 4,
+      "status": "BP",
+      "year": 2022,
+      "zoning": "RM1",
+      "opa_location": "3618 WALLACE ST",
+      "lot_area": 1530,
+      "market_value": 116300,
+      "matched": true
+    },
+    {
+      "addr": "6327 MUSGRAVE ST",
+      "program": "MIHB",
+      "aff": 2,
+      "status": "BP",
+      "year": 2022,
+      "zoning": "RM1",
+      "opa_location": "6327 MUSGRAVE ST",
+      "lot_area": 18300,
+      "market_value": 324200,
+      "matched": true
+    },
+    {
+      "addr": "871 N PRESTON ST",
+      "program": "MIHB",
+      "aff": 1,
+      "status": "BP",
+      "year": 2022,
+      "zoning": "RSA5",
+      "opa_location": "871 N PRESTON ST",
+      "lot_area": 2640,
+      "market_value": 101700,
+      "matched": true
+    },
+    {
+      "addr": "719 N 35TH ST",
+      "program": "MIHB",
+      "aff": 1,
+      "status": "CO",
+      "year": 2022,
+      "zoning": "RM1",
+      "opa_location": "719 N 35TH ST",
+      "lot_area": 1649,
+      "market_value": 55800,
+      "matched": true
+    },
+    {
+      "addr": "5300 WHITBY AVE",
+      "program": "MIHB",
+      "aff": 4,
+      "status": "CO",
+      "year": 2022,
+      "zoning": "CMX2",
+      "opa_location": "5300 WHITBY AVE",
+      "lot_area": 10116,
+      "market_value": 3106400,
+      "matched": true
+    },
+    {
+      "addr": "1701 FEDERAL ST",
+      "program": "MIHB",
+      "aff": 4,
+      "status": "CO",
+      "year": 2022,
+      "zoning": "CMX2",
+      "opa_location": "1701 FEDERAL ST",
+      "lot_area": 7367,
+      "market_value": 5903000,
+      "matched": true
+    },
+    {
+      "addr": "6128 GERMANTOWN AVE",
+      "program": "MIHB",
+      "aff": 5,
+      "status": "CO",
+      "year": 2022,
+      "zoning": "CMX2",
+      "opa_location": "6128 GERMANTOWN AVE",
+      "lot_area": null,
+      "market_value": 1235800,
+      "matched": true
+    },
+    {
+      "addr": "1615 FOULKROD ST",
+      "program": "MIN",
+      "aff": 5,
+      "status": "CO",
+      "year": 2024,
+      "zoning": "RM1",
+      "opa_location": "1615 FOULKROD ST",
+      "lot_area": 14863,
+      "market_value": 2456000,
+      "matched": true
+    },
+    {
+      "addr": "300 W NORRIS ST",
+      "program": "MIN",
+      "aff": 10,
+      "status": "CO",
+      "year": 2025,
+      "zoning": "RM1",
+      "opa_location": "300 W NORRIS ST",
+      "lot_area": 6839,
+      "market_value": 3813800,
+      "matched": true
+    },
+    {
+      "addr": "2520 N FRONT ST",
+      "program": "MIN",
+      "aff": 6,
+      "status": "BP",
+      "year": 2023,
+      "zoning": "CMX2",
+      "opa_location": "2520 N FRONT ST",
+      "lot_area": 4146,
+      "market_value": 2387900,
+      "matched": true
+    },
+    {
+      "addr": "1931 N 2ND ST",
+      "program": "MIN",
+      "aff": 5,
+      "status": "BP",
+      "year": 2024,
+      "zoning": "CMX2.5",
+      "opa_location": "1931 N 2ND ST",
+      "lot_area": 3924,
+      "market_value": 276700,
+      "matched": true
+    },
+    {
+      "addr": "606 N 32ND ST",
+      "program": "MIN",
+      "aff": 5,
+      "status": "ZP",
+      "year": 2025,
+      "zoning": "RM1",
+      "opa_location": "606 N 32ND ST",
+      "lot_area": 1671,
+      "market_value": 76500,
+      "matched": true
+    },
+    {
+      "addr": "620 N 40TH ST",
+      "program": "MIN",
+      "aff": 14,
+      "status": "ZP",
+      "year": 2024,
+      "zoning": "RM1",
+      "opa_location": "620 N 40TH ST",
+      "lot_area": 2588,
+      "market_value": 70700,
+      "matched": true
+    },
+    {
+      "addr": "30 S 52ND ST",
+      "program": "MIN",
+      "aff": 41,
+      "status": "ZP",
+      "year": 2024,
+      "zoning": "CMX2.5",
+      "opa_location": "30 S 52ND ST",
+      "lot_area": 5544,
+      "market_value": 775000,
+      "matched": true
+    },
+    {
+      "addr": "1832 GERMANTOWN AVE",
+      "program": "MIN",
+      "aff": 18,
+      "status": "ZP",
+      "year": 2024,
+      "zoning": "RSA5",
+      "opa_location": "1832 GERMANTOWN AVE",
+      "lot_area": 33538,
+      "market_value": 875000,
+      "matched": true
+    },
+    {
+      "addr": "857 N 40TH ST",
+      "program": "MIN",
+      "aff": 3,
+      "status": "ZP",
+      "year": 2022,
+      "zoning": "RM1",
+      "opa_location": "857 N 40TH ST",
+      "lot_area": 2300,
+      "market_value": 84600,
+      "matched": true
+    },
+    {
+      "addr": "861 N 40TH ST",
+      "program": "MIN",
+      "aff": 3,
+      "status": "ZP",
+      "year": 2022,
+      "zoning": "RM1",
+      "opa_location": "861 N 40TH ST",
+      "lot_area": 2300,
+      "market_value": 84600,
+      "matched": true
+    }
+  ],
+  "unmatched": [
+    {
+      "addr": "2400 MASCHER ST",
+      "program": "MIHB"
+    },
+    {
+      "addr": "4701 WAYNE AVE",
+      "program": "MIHB"
+    },
+    {
+      "addr": "892 N 41ST ST",
+      "program": "MIHB"
+    },
+    {
+      "addr": "1106 SPRING GARDEN ST",
+      "program": "MIHB"
+    },
+    {
+      "addr": "2019 N 29TH ST",
+      "program": "MIHB"
+    },
+    {
+      "addr": "2020 FRANKFORD AVE",
+      "program": "MIHB"
+    },
+    {
+      "addr": "3952 LANCASTER AVE",
+      "program": "MIHB"
+    },
+    {
+      "addr": "401 E WALNUT LN",
+      "program": "MIHB"
+    },
+    {
+      "addr": "769 S 10TH ST",
+      "program": "MIHB"
+    },
+    {
+      "addr": "914 W SUSQUEHANNA AVE",
+      "program": "MIHB"
+    },
+    {
+      "addr": "1201 WHARTON ST",
+      "program": "MIHB"
+    },
+    {
+      "addr": "713 S MILDRED ST",
+      "program": "MIHB"
+    },
+    {
+      "addr": "4512 LANCASTER AVE",
+      "program": "MIHB"
+    },
+    {
+      "addr": "723 N 35TH ST",
+      "program": "MIHB"
+    },
+    {
+      "addr": "1205 S 15TH ST",
+      "program": "MIHB"
+    },
+    {
+      "addr": "1611 FOULKROD ST",
+      "program": "MIN"
+    },
+    {
+      "addr": "239 FARRAGUT ST",
+      "program": "MIN"
+    },
+    {
+      "addr": "5021 MARKET ST",
+      "program": "MIN"
+    },
+    {
+      "addr": "4108 HAVERFORD AVE",
+      "program": "MIN"
+    },
+    {
+      "addr": "235 CECIL B MOORE AVE",
+      "program": "MIN"
+    },
+    {
+      "addr": "2301 JASPER ST",
+      "program": "MIN"
+    },
+    {
+      "addr": "4200 CHESTER AVE",
+      "program": "MIN"
+    },
+    {
+      "addr": "439 W BERKS ST",
+      "program": "MIN"
+    }
+  ]
+}

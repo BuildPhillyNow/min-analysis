@@ -1,0 +1,161 @@
+{
+ "parcels_citywide": 546044,
+ "sites_with_10plus_capacity": 11930,
+ "sites_inside_min": 1216,
+ "project_placement": {
+  "projects_in_periods": 555,
+  "on_a_10plus_capacity_private_parcel": 299,
+  "inside_min_share_placed": 0.659,
+  "outside_share_placed": 0.521,
+  "placed_by_period_inside": {
+   "0": 0.742,
+   "1": 0.462
+  },
+  "placed_by_period_outside": {
+   "0": 0.546,
+   "1": 0.484
+  }
+ },
+ "models": [
+  {
+   "sample": "citywide",
+   "sites": 11930,
+   "sites_inside": 1216,
+   "starts": {
+    "min0_post0": 149,
+    "min0_post1": 92,
+    "min1_post0": 45,
+    "min1_post1": 12
+   },
+   "starts_per_1000_sites": {
+    "min0_post0": 13.91,
+    "min0_post1": 8.59,
+    "min1_post0": 37.01,
+    "min1_post1": 9.87
+   },
+   "no controls": {
+    "odds_ratio": 0.42,
+    "ci95": [
+     0.22,
+     0.81
+    ],
+    "p": 0.01,
+    "post_odds_ratio_outside": 0.61
+   },
+   "with controls": {
+    "odds_ratio": 0.39,
+    "ci95": [
+     0.19,
+     0.81
+    ],
+    "p": 0.012,
+    "post_odds_ratio_outside": 5.37
+   }
+  },
+  {
+   "sample": "price-matched tracts (5-95 band)",
+   "sites": 9097,
+   "sites_inside": 1216,
+   "starts": {
+    "min0_post0": 113,
+    "min0_post1": 62,
+    "min1_post0": 45,
+    "min1_post1": 12
+   },
+   "starts_per_1000_sites": {
+    "min0_post0": 14.34,
+    "min0_post1": 7.87,
+    "min1_post0": 37.01,
+    "min1_post1": 9.87
+   },
+   "no controls": {
+    "odds_ratio": 0.48,
+    "ci95": [
+     0.24,
+     0.93
+    ],
+    "p": 0.03,
+    "post_odds_ratio_outside": 0.55
+   },
+   "with controls": {
+    "odds_ratio": 0.5,
+    "ci95": [
+     0.24,
+     1.04
+    ],
+    "p": 0.064,
+    "post_odds_ratio_outside": 19.85
+   }
+  },
+  {
+   "sample": "within 2,500 ft of the MIN boundary",
+   "sites": 3089,
+   "sites_inside": 997,
+   "starts": {
+    "min0_post0": 45,
+    "min0_post1": 22,
+    "min1_post0": 38,
+    "min1_post1": 11
+   },
+   "starts_per_1000_sites": {
+    "min0_post0": 21.51,
+    "min0_post1": 10.52,
+    "min1_post0": 38.11,
+    "min1_post1": 11.03
+   },
+   "no controls": {
+    "odds_ratio": 0.58,
+    "ci95": [
+     0.26,
+     1.31
+    ],
+    "p": 0.19,
+    "post_odds_ratio_outside": 0.48
+   },
+   "with controls": {
+    "odds_ratio": 0.57,
+    "ci95": [
+     0.23,
+     1.4
+    ],
+    "p": 0.222,
+    "post_odds_ratio_outside": 14.31
+   }
+  },
+  {
+   "sample": "within 1,500 ft of the MIN boundary",
+   "sites": 1980,
+   "sites_inside": 716,
+   "starts": {
+    "min0_post0": 27,
+    "min0_post1": 10,
+    "min1_post0": 26,
+    "min1_post1": 9
+   },
+   "starts_per_1000_sites": {
+    "min0_post0": 21.36,
+    "min0_post1": 7.91,
+    "min1_post0": 36.31,
+    "min1_post1": 12.57
+   },
+   "no controls": {
+    "odds_ratio": 0.92,
+    "ci95": [
+     0.38,
+     2.22
+    ],
+    "p": 0.861,
+    "post_odds_ratio_outside": 0.37
+   },
+   "with controls": {
+    "odds_ratio": 0.92,
+    "ci95": [
+     0.32,
+     2.65
+    ],
+    "p": 0.881,
+    "post_odds_ratio_outside": 0.66
+   }
+  }
+ ]
+}

@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "csv": "/Users/jongeeting/Projects/min-analysis/analysis/data/min_permits_enriched_2025.csv",
+    "n_permits": 11431,
+    "n_cells": 264,
+    "n_treated_cellquarters_post": 1316,
+    "grid_deg": [0.004, 0.005],
+    "q_treat": 15
+  },
+  "unit_estimators": {
+    "mean": 60.416,
+    "trimmed": 46.6186,
+    "median": 30,
+    "n_pre_inside": 125
+  },
+  "twfe": {
+    "large_nc": {
+      "tag": "New construction >=10u (primary)",
+      "y": "n_large_nc",
+      "pois_b": -0.8636,
+      "pois_pct": -57.8363,
+      "pois_ci_pct": [-84.3278, 13.435],
+      "ols_b": -0.0519,
+      "ols_ci": [-0.0784, -0.0253],
+      "lost": 68.2353,
+      "lost_ci": [33.3493, 103.1213],
+      "p": 0.0872
+    },
+    "large": {
+      "tag": "All types >=10u",
+      "y": "n_large",
+      "pois_b": -0.6793,
+      "pois_pct": -49.3007,
+      "pois_ci_pct": [-75.0472, 3.0112],
+      "ols_b": -0.0535,
+      "ols_ci": [-0.0847, -0.0222],
+      "lost": 70.3412,
+      "lost_ci": [29.1684, 111.5139],
+      "p": 0.0604
+    },
+    "units": {
+      "tag": "Units in >=10u projects",
+      "y": "u_large",
+      "pois_b": -0.6938,
+      "pois_pct": -50.0313,
+      "pois_ci_pct": [-79.1564, 19.7909],
+      "ols_b": -3.3985,
+      "ols_ci": [-5.8977, -0.8993],
+      "lost": 4472.4588,
+      "lost_ci": [1183.5237, 7761.394],
+      "p": 0.1199
+    },
+    "large_nc_clean": {
+      "tag": "New construction >=10u (drop mixed cells)",
+      "y": "n_large_nc",
+      "pois_b": -1.3038,
+      "pois_pct": -72.8507,
+      "pois_ci_pct": [-90.6889, -20.8379],
+      "ols_b": -0.0568,
+      "ols_ci": [-0.0859, -0.0277],
+      "lost": 74.7944,
+      "lost_ci": [36.5027, 113.086],
+      "p": 0.0169
+    }
+  },
+  "callaway_santanna": {
+    "att": -0.0028,
+    "se": 0.0168,
+    "ci": [-0.0358, 0.0301]
+  },
+  "flat_counterfactual": {
+    "lost_permits": 63.822,
+    "units_mean": 3855.872,
+    "units_trimmed": 2975.2967,
+    "units_median": 1914.661
+  },
+  "did_units": {
+    "lost_permits": 70.3412,
+    "lost_permits_ci": [29.1684, 111.5139],
+    "units_trimmed": 3279.2103,
+    "units_ci": [1359.7921, 5198.6284],
+    "units_range": [2110.2353, 4249.7325]
+  }
+}
